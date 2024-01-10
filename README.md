@@ -2,7 +2,7 @@
 <h3 align="center">Một nhà phát triển đam mê đến từ VIETNAMSE</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=anhdeface&label=Profile%20views&color=0e75b6&style=flat" alt="anhdeface" />
+    <img src="https://komarev.com/ghpvc/?username=anhdeface&style=for-the-badge" alt="anhdeface" />
 </p>
 
 <h3 align="left">Kết nối với tôi:</h3>
